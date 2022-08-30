@@ -1,0 +1,135 @@
+.Container {
+    max-width: 960px;
+    margin: 20px auto;
+    box-shadow: 0 0 1em #6c757d;
+    padding: 20px;
+}
+
+.ConteudoTitulo {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.BotaoAcao {
+    margin: 20px 0px;
+}
+
+
+.ButtonInfo {
+    background-color: #fff;
+    color: #0dcaf0;
+    padding: 6px 9px;
+    border: 1px solid #0dcaf0;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+
+.Titulo {
+    color: #3e3e3e;
+    font-size: 23px;
+}
+
+
+.ConteudoProd {
+    color: #3e3e3e;
+    font-size: 16px;
+}
+
+
+.AlertSuccess {
+    background-color: #d1e7dd;
+    color: #0f5132;
+    margin: 20px 0;
+    border: 1px solid #badbcc;
+    border-radius: 4px;
+    padding: 7px;
+}
+
+.AlertDanger {
+    background-color: #f8d7da;
+    color: #842029;
+    margin: 20px 0;
+    border: 1px solid #f5c2c7;
+    border-radius: 4px;
+    padding: 7px;
+}
+
+.ConteudoForm {
+    max-width: 960px;
+    padding: 10px 30px 30px;
+}
+
+.Form {
+    margin: 0px auto;
+}
+
+.Label {
+    width: 100%;
+    padding: 12px;
+    margin-top: 6px;
+    margin-bottom: 16px;
+}
+
+.Input {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+.ButtonSuccess {
+    background-color: #fff;
+    color: #198754;
+    padding: 8px 12px;
+    border: 1px solid #198754;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+
+.ButtonPrimary {
+    background-color: #fff;
+    color: #0d6efd;
+    padding: 5px 8px;
+    border: 1px solid #0d6efd;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.ButtonWarning {
+    background-color: #fff;
+    color: #ffc107;
+    padding: 5px 8px;
+    border: 1px solid #ffc107;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.ButtonDanger {
+    background-color: #fff;
+    color: #dc3545;
+    padding: 5px 8px;
+    border: 1px solid #dc3545;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+
+.Table {
+    width: 100%;
+    background-color: #f6f6f6;
+    color: #3e3e3e;
+    padding: 8px;
+
+}
